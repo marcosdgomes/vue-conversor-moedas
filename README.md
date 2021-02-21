@@ -1,24 +1,51 @@
-# vue-training
+# Conversor de Moedas V1.1
 
-## Project setup
+Conversor de moedas criado utilizando VueJS.
+Utilizado: API, CSS, HTML, Javascript e VueJS.
+
+Demonstração na Vercel:  https://vue-conversor-moedas.vercel.app/
+
+
+
+### 📋🚀 Ambiente de desenvolvimento utilizado
+
+Como rodar no localhost? Certifique-se de ter tudo instalado.
+
+```
+Visual Studio Code: Editor de código-fonte (você pode utilizar o seu editor favorito).
+Vetur: Plugin do VSCode
+NodeJs: Plataforma de desenvolvimento backend com Javascript. 
+NPM: Gerenciador de pacotes
+VueJS: Framework Javascript
+VueCLI
+```
+
+
+### 🔧 Instalação
+
+Com o terminal sendo executado na pasta do projeto, digite os comandos para
+
+Instalar dependências
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Rodar local (hot-reloads para desenvolvimento)
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+Compilar para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## ✒️ Autores
+
+* **Marcos Delano** - [marcosdgomes](https://github.com/marcosdgomes)
+
+
+
+---
+com ❤️.
