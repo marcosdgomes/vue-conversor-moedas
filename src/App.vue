@@ -19,6 +19,9 @@
     <conversor moeda-a="BRL" moeda-b="EUR"/>
     <conversor moeda-a="BRL" moeda-b="GBP"/>
     </div>
+    <br>
+    <center>Desenvolvido por Marcos Delano com ❤️.</center>
+    <br>
   </div>
 </template>
 
