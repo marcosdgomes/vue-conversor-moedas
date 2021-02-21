@@ -1,4 +1,4 @@
-# Conversor de Moedas V1.1
+# Conversor de Moedas V1.0
 
 Conversor de moedas criado utilizando VueJS.
 Utilizado: API, CSS, HTML, Javascript e VueJS.
