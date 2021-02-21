@@ -1,4 +1,4 @@
-# Conversor de Moedas V1.0
+# Conversor de Moedas V1.1
 
 Conversor de moedas criado utilizando VueJS.
 Utilizado: API, CSS, HTML, Javascript e VueJS.
@@ -12,12 +12,12 @@ Demonstração na Vercel:  https://vue-conversor-moedas.vercel.app/
 Como rodar no localhost? Certifique-se de ter tudo instalado.
 
 ```
-Visual Studio Code: Editor de código-fonte (você pode utilizar o seu editor favorito).
-Vetur: Plugin do VSCode
-NodeJs: Plataforma de desenvolvimento backend com Javascript. 
-NPM: Gerenciador de pacotes
-VueJS: Framework Javascript
-VueCLI
+- Visual Studio Code: Editor de código-fonte (você pode utilizar o seu editor favorito).
+- Vetur: Plugin do VSCode
+- NodeJs: Plataforma de desenvolvimento backend com Javascript. 
+- NPM: Gerenciador de pacotes
+- VueJS: Framework Javascript
+- VueCLI
 ```
 
 
@@ -48,4 +48,4 @@ npm run build
 
 
 ---
-com ❤️.
+Feito com ❤️.

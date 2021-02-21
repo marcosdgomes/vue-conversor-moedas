@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Conversor de Moedas</h1>
-    <h3>Principais Moedas Estrangeiras x Real (BRL)</h3>
+    <h3>Moedas Estrangeiras x Real (BRL)</h3>
     <div class="linha">
     <conversor moeda-a="USD" moeda-b="BRL"/>
     <conversor moeda-a="CAD" moeda-b="BRL"/>
