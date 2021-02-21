@@ -5,10 +5,12 @@
     <div class="linha">
     <conversor moeda-a="USD" moeda-b="BRL"/>
     <conversor moeda-a="CAD" moeda-b="BRL"/>
+    <conversor moeda-a="ARS" moeda-b="BRL"/>
   </div>
   <div class="linha">
     <conversor moeda-a="EUR" moeda-b="BRL"/>
     <conversor moeda-a="GBP" moeda-b="BRL"/>
+    <conversor moeda-a="MXN" moeda-b="BRL"/>
     
     </div>
     <h3>Real  (BRL) x Moedas estrangeiras</h3>
