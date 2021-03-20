@@ -9,15 +9,11 @@ Demonstração na Vercel:  https://vue-conversor-moedas.vercel.app/
 
 ### 📋🚀 Ambiente de desenvolvimento utilizado
 
-Como rodar no localhost? Certifique-se de ter tudo instalado.
+Como rodar no localhost?
 
 ```
-- Visual Studio Code: Editor de código-fonte (você pode utilizar o seu editor favorito).
-- Vetur: Plugin do VSCode
-- NodeJs: Plataforma de desenvolvimento backend com Javascript. 
-- NPM: Gerenciador de pacotes
-- VueJS: Framework Javascript
-- VueCLI
+- VueJS
+- NodeJS
 ```
 
 
