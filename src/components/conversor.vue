@@ -24,7 +24,7 @@ export default {
             let url = 
             "https://free.currconv.com/api/v7/convert?q="+
             de_para +
-            "&compact=ultra&apiKey=1e25f6b1e5e89c4962ed";
+            "&compact=ultra&apiKey=0a8a92235787a4133dd9";
 
     fetch(url)
     .then(res => {
